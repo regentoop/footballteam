@@ -2,7 +2,7 @@
 A class describing a football team to introduce the concept of classes
 
 To start working with this repo first clone it with the command 
-git clone <repo name>
+git clone https://github.com/regentoop/footballteam.git
 
 Alternatively you may use the clone button in visual studio. Once the repo is cloned onto your system, you may then make any changes you wish.
 After completing your changes, make sure to Stage and Commit them
